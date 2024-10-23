@@ -20,6 +20,6 @@ const styles = StyleSheet.create({
     fontSize: 24,
     color: 'black',
   },
-});
+});wcwcwc
 
 export default App;
